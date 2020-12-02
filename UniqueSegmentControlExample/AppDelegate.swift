@@ -1,7 +1,7 @@
 //  AppDelegate.swift
-//  Swiftlet
-//  Created by Ranjeet Raushan on 22/Feb/16.
-//  Copyright © 2019  Vaayoo . All rights reserved.
+//  UniqueSegmentControlExample
+//  Created by Ranjeet Raushan on 02/Dec/2020.
+//  Copyright © 2019  Ranjeet Raushan . All rights reserved.
 
 import UIKit
 import CoreData
